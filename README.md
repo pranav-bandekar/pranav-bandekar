@@ -19,4 +19,5 @@ I'm a software developer with 8+ years of experience building scalable mobile an
 
 ### 🌐 Connect With Me
 - LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/pranav-bandekar-6a2758130/)
+- Resume: (https://docs.google.com/document/d/1BI8BElfEht0vQL71jxqriOZ2tVBvuCIi812_cF7kLYU/edit?usp=sharing)
 
