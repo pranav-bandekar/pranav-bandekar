@@ -5,7 +5,7 @@
 
 **I build mobile applications and software solutions that solve real-world problems.**
 
-I'm a software developer with 8+ years of experience in mobile and web application development. My primary focus is building reliable, scalable, and user-friendly applications for Android and iOS.
+I'm a software developer with 7+ years of experience in mobile and web application development. My primary focus is building reliable, scalable, and user-friendly applications for Android and iOS.
 
 I enjoy working across the complete development lifecycle, from understanding requirements and designing application architecture to development, API integration, testing, deployment, and maintenance.
 
